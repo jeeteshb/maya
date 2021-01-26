@@ -216,7 +216,7 @@ html.fp-enabled {
 #fp-nav ul li .fp-tooltip {
     position: absolute;
     top: -2px;
-    color: #fff;
+    color: rgb(180, 18, 18);
     font-size: 14px;
     font-family: arial, helvetica, sans-serif;
     white-space: nowrap;
